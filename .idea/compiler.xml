@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="video-utils" />
+        <module name="shop" />
+        <module name="mybatis_ger" />
+        <module name="video-dao" />
+        <module name="ssm-bookstore" />
+        <module name="video-service" />
+        <module name="ssm-wyy-music" />
+        <module name="guimei" />
+        <module name="video-pojo" />
+        <module name="mybatis04" />
+        <module name="mybatis03" />
+        <module name="mybatis02" />
+        <module name="mybatis-generator" />
+        <module name="video-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="guimei" target="1.8" />
+      <module name="mybatis-generator" target="1.8" />
+      <module name="mybatis01" target="1.8" />
+      <module name="mybatis02" target="1.8" />
+      <module name="mybatis03" target="1.8" />
+      <module name="mybatis04" target="1.8" />
+      <module name="mybatis_ger" target="1.8" />
+      <module name="shop" target="1.8" />
+      <module name="ssm-bookstore" target="1.8" />
+      <module name="ssm-wyy-music" target="1.8" />
+      <module name="video-dao" target="1.8" />
+      <module name="video-parent" target="1.8" />
+      <module name="video-pojo" target="1.8" />
+      <module name="video-service" target="1.8" />
+      <module name="video-utils" target="1.8" />
+      <module name="video-web" target="1.8" />
+      <module name="wyy" target="1.8" />
+      <module name="xxyy" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

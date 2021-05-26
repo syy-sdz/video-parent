@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/workspace/guimei/guimei.iml" filepath="E:/workspace/guimei/guimei.iml" />
+      <module fileurl="file://E:/workspace/mybatis-generator/mybatis-generator.iml" filepath="E:/workspace/mybatis-generator/mybatis-generator.iml" />
+      <module fileurl="file://E:/workspace/mybatis01/mybatis01.iml" filepath="E:/workspace/mybatis01/mybatis01.iml" />
+      <module fileurl="file://E:/workspace/mybatis02/mybatis02.iml" filepath="E:/workspace/mybatis02/mybatis02.iml" />
+      <module fileurl="file://E:/workspace/mybatis03/mybatis03.iml" filepath="E:/workspace/mybatis03/mybatis03.iml" />
+      <module fileurl="file://E:/workspace/mybatis04/mybatis04.iml" filepath="E:/workspace/mybatis04/mybatis04.iml" />
+      <module fileurl="file://E:/workspace/mybatis_ger/mybatis_ger.iml" filepath="E:/workspace/mybatis_ger/mybatis_ger.iml" />
+      <module fileurl="file://E:/workspace/shop/shop.iml" filepath="E:/workspace/shop/shop.iml" />
+      <module fileurl="file://E:/workspace/ssm-bookstore/ssm-bookstore.iml" filepath="E:/workspace/ssm-bookstore/ssm-bookstore.iml" />
+      <module fileurl="file://E:/workspace/ssm-wyy-music/ssm-wyy-music.iml" filepath="E:/workspace/ssm-wyy-music/ssm-wyy-music.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video-dao/video-dao.iml" filepath="$PROJECT_DIR$/video-dao/video-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video-parent.iml" filepath="$PROJECT_DIR$/video-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video-pojo/video-pojo.iml" filepath="$PROJECT_DIR$/video-pojo/video-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video-service/video-service.iml" filepath="$PROJECT_DIR$/video-service/video-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video-utils/video-utils.iml" filepath="$PROJECT_DIR$/video-utils/video-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video-web/video-web.iml" filepath="$PROJECT_DIR$/video-web/video-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm-wyy-music:war">
+    <output-path>E:/workspace/ssm-wyy-music/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ssm-wyy-music</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ssm-wyy-music-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ssm-wyy-music:war exploded" />
+    </root>
+  </artifact>
+</component>

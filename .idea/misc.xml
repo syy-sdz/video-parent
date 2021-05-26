@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/video-web" />
+    <file type="web" url="file://E:/workspace/guimei" />
+    <file type="web" url="file://E:/workspace/shop" />
+    <file type="web" url="file://E:/workspace/ssm-bookstore" />
+    <file type="web" url="file://E:/workspace/ssm-wyy-music" />
+    <file type="web" url="file://E:/workspace/xxyy" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="E:/workspace/mybatis-generator/pom.xml" />
+        <option value="E:/workspace/ssm-bookstore/pom.xml" />
+        <option value="E:/workspace/ssm-wyy-music/pom.xml" />
+        <option value="E:/workspace/shop/pom.xml" />
+        <option value="E:/workspace/guimei/pom.xml" />
+        <option value="E:/workspace/mybatis01/pom.xml" />
+        <option value="E:/workspace/mybatis02/pom.xml" />
+        <option value="E:/workspace/mybatis03/pom.xml" />
+        <option value="E:/workspace/mybatis_ger/pom.xml" />
+        <option value="E:/workspace/mybatis04/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="E:/workspace/mybatis01/mybatis02/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>
